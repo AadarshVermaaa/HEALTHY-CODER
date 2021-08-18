@@ -76,3 +76,4 @@ while Run:
         xtask = "Exercise"
         exercise()
         start_exercise = time.time()    
+        dsgdsj
