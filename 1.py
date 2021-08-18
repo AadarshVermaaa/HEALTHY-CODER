@@ -59,9 +59,9 @@ def exercise():
 start_water = time.time()
 start_eyes = time.time()
 start_exercise = time.time()
-watertime = 2
-eyestime = 1
-exercisetime = 3
+watertime = 2400
+eyestime = 1800
+exercisetime = 3600
 
 while Run:
     if time.time() - start_water > watertime:
